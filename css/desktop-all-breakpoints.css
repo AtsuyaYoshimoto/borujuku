@@ -1,0 +1,2880 @@
+/* screen - desktop-all-breakpoints */
+
+.desktop-all-breakpoints {
+  align-items: center;
+  background-color: var(--b-fitjpwhite);
+  display: flex;
+  flex-direction: column;
+  min-width: 1280px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .nav {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-1);
+  display: flex;
+  height: 101px;
+  justify-content: space-between;
+  padding: 32px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .logo {
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.desktop-all-breakpoints .nav-labels {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 20px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.desktop-all-breakpoints .services {
+  cursor: pointer;
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-all-breakpoints .button-on {
+  background-color: var(--dividerdivider-1);
+  display: inline-flex;
+}
+
+.desktop-all-breakpoints .connect-with-our-experts {
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-top: -0.39px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-all-breakpoints .hero-section {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-1);
+  border-radius: 0px 0px 16px 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  overflow: hidden;
+  padding: 100px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .content-1 {
+  align-items: center;
+  flex: 0 0 auto;
+  gap: 80px;
+  max-width: 1500px;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .block {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 50px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .text-2 {
+  gap: 24px;
+}
+
+.desktop-all-breakpoints .title {
+  align-self: stretch;
+  color: var(--dividerdivider-1);
+  font-family: var(--font-family-work_sans);
+  font-size: 80px;
+  font-weight: 400;
+  letter-spacing: -6.40px;
+  line-height: 80px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .trusted-financial-gu {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .button-on-dark {
+  align-items: center;
+  background-color: var(--dividerdivider-1);
+  border-radius: 51.57px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+  padding: 12px;
+  position: relative;
+  width: 162px;
+}
+
+.desktop-all-breakpoints .connect-with-our-experts-1 {
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-top: -0.39px;
+}
+
+.desktop-all-breakpoints .image {
+  background-image: url(../img/image@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 411.49px;
+  position: relative;
+  width: 429px;
+}
+
+.desktop-all-breakpoints .services-section {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-2);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .intro-section {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 106px;
+  max-width: 1500px;
+  padding: 120px 40px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .content-2 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 28.04px;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .services-1 {
+  letter-spacing: -0.30px;
+  line-height: 15px;
+  margin-top: -1.10px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-all-breakpoints .let-us-handle-the-nu {
+  letter-spacing: -4.20px;
+  line-height: 63.0px;
+  position: relative;
+  text-align: center;
+  width: 857.44px;
+}
+
+.desktop-all-breakpoints .serving-individuals {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+  text-align: center;
+}
+
+.desktop-all-breakpoints .connect-with-our-experts-2 {
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-top: -0.39px;
+}
+
+.desktop-all-breakpoints .section-1 {
+  gap: 192px;
+  justify-content: space-around;
+  padding: 20px 0px 20px 20px;
+}
+
+.desktop-all-breakpoints .card {
+  align-items: center;
+  background-color: var(--accentaccent-1);
+  border-radius: 20px;
+  display: flex;
+  gap: 70px;
+  padding: 80px 100px 80px 80px;
+  position: relative;
+  width: 1036px;
+}
+
+.desktop-all-breakpoints .image-1 {
+  background-image: url(../img/image-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  height: 285.21px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .content {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 70px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .text {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .tax-preparation-filing {
+  align-self: stretch;
+  letter-spacing: -1.80px;
+  line-height: 42.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .accurately-prepare-a {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .labels {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .labels-1 {
+  align-items: center;
+  background-color: var(--b-fitjpwhite);
+  border-radius: 8px;
+  gap: 4px;
+  justify-content: center;
+  padding: 12px;
+  width: 82px;
+}
+
+.desktop-all-breakpoints .x1099-taxes {
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-left: -4.00px;
+  margin-right: -4.00px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-all-breakpoints .x1099-taxes-1 {
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-left: -2.00px;
+  margin-right: -2.00px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-all-breakpoints .section-2 {
+  gap: 188px;
+  justify-content: flex-end;
+  padding: 20px 20px 20px 0px;
+}
+
+.desktop-all-breakpoints .card-1 {
+  background-color: var(--accentaccent-1);
+  gap: 70px;
+  justify-content: flex-end;
+  padding: 80px;
+  width: 1044px;
+}
+
+.desktop-all-breakpoints .irs-audit-assistance {
+  align-self: stretch;
+  letter-spacing: -1.80px;
+  line-height: 42.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .offer-expert-guidanc {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .image-2 {
+  background-image: url(../img/image-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  height: 267.48px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .section-3 {
+  gap: 137px;
+  padding: 20px 0px 20px 20px;
+}
+
+.desktop-all-breakpoints .card-2 {
+  background-color: var(--accentaccent-1);
+  gap: 70px;
+  padding: 80px;
+  width: 1020px;
+}
+
+.desktop-all-breakpoints .image-3 {
+  background-image: url(../img/image-3@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 319.19px;
+  position: relative;
+  width: 380.43px;
+}
+
+.desktop-all-breakpoints .bookkeeping-accounting {
+  align-self: stretch;
+  letter-spacing: -1.80px;
+  line-height: 42.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .maintain-organized-f {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .testimonial-section {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-2);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .carousel-desktop-tablet {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 120px;
+  max-width: 1200px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .hear-from-our-happy-clients {
+  align-self: stretch;
+  letter-spacing: -4.20px;
+  line-height: 63.0px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.desktop-all-breakpoints .quotes {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .titles {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 310px;
+}
+
+.desktop-all-breakpoints .component-1 {
+  align-items: flex-start;
+  background-color: var(--backgroundbackground-3);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: 128px;
+  padding: 20px 30px;
+  position: relative;
+  width: 310px;
+}
+
+.desktop-all-breakpoints .text-1 {
+  border-color: var(--texton-accent-3);
+  border-top-style: solid;
+  border-top-width: 1px;
+  gap: 16px;
+  padding: 20px 0px;
+}
+
+.desktop-all-breakpoints .graphic-designer {
+  align-self: stretch;
+  color: var(--b-fitjpwhite);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: -0.81px;
+  line-height: 18.9px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .component {
+  align-items: flex-start;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: 128px;
+  padding: 20px 30px;
+  position: relative;
+  width: 310px;
+}
+
+.desktop-all-breakpoints .commercial-photographer {
+  align-self: stretch;
+  letter-spacing: -0.81px;
+  line-height: 18.9px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .ontario-canada-1 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .stylist {
+  align-self: stretch;
+  letter-spacing: -0.81px;
+  line-height: 18.9px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .name {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .quotes-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-color: var(--dividerdivider-1);
+  border-left-style: solid;
+  border-left-width: 1px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 50px;
+  padding: 0px 30px 0px 40px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .managing-my-taxes-a {
+  align-self: stretch;
+  letter-spacing: -1.35px;
+  line-height: 33.0px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .byline {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 28px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .image-4 {
+  height: 48.04px;
+  object-fit: cover;
+  position: relative;
+  width: 46.05px;
+}
+
+.desktop-all-breakpoints .name-1 {
+  flex: 1;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .image-break-section {
+  align-self: stretch;
+  background-image: url(../img/image-break-section.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 600px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .benefits-section {
+  align-items: flex-start;
+  background-color: var(--b-fitjpwhite);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 1600px;
+  padding: 80px 40px 120px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .content-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 160px;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .header {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 50px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .smart-finance-for-everyone {
+  flex: 1;
+  letter-spacing: -4.20px;
+  line-height: 63.0px;
+  margin-top: -1.10px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .at-noble-finance-we {
+  flex: 1;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  margin-top: -1.10px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .x3-column {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 20px;
+  height: 330px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .call-out {
+  align-items: flex-start;
+  align-self: stretch;
+  border-color: var(--dividerdivider-1);
+  border-left-style: solid;
+  border-left-width: 1px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  padding: 20px 80px 20px 50px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .image-5 {
+  background-image: url(../img/image-5@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.desktop-all-breakpoints .for {
+  align-self: stretch;
+  letter-spacing: -1.35px;
+  line-height: 31.5px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .simplicity-control {
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+  width: 236.25px;
+}
+
+.desktop-all-breakpoints .stay-in-charge-of-yo {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .call-out-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-color: var(--dividerdivider-1);
+  border-left-style: solid;
+  border-left-width: 1px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  padding: 20px 0px 20px 50px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .image-6 {
+  background-image: url(../img/image-6@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.desktop-all-breakpoints .stability-security {
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+  width: 144.6px;
+}
+
+.desktop-all-breakpoints .from-budgeting-tools {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .image-7 {
+  background-image: url(../img/image-7@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.desktop-all-breakpoints .effortless-bookkeepi {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .cta-section {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--b-fitjpwhite);
+  display: flex;
+  gap: 20px;
+  height: 475px;
+  padding: 50px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .card-3 {
+  align-self: stretch;
+  background-color: var(--backgroundbackground-3);
+  flex: 1;
+  flex-grow: 1;
+  gap: 28.04px;
+  justify-content: center;
+  padding: 60px;
+}
+
+.desktop-all-breakpoints .content-4 {
+  align-items: flex-start;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 40px;
+  justify-content: center;
+}
+
+.desktop-all-breakpoints .a-custom-built-plan-for-you {
+  align-self: stretch;
+  color: var(--b-fitjpwhite);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-40px);
+  font-weight: 400;
+  letter-spacing: -1.80px;
+  line-height: 42.0px;
+  margin-top: -6.00px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .at-noble-finances-w {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .button-white {
+  background-color: var(--b-fitjpwhite);
+  display: flex;
+  width: 86px;
+}
+
+.desktop-all-breakpoints .image-8 {
+  align-self: stretch;
+  background-image: url(../img/image-8.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 20px;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.desktop-all-breakpoints .experts-section {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-2);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  padding: 160px 120px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .content-5 {
+  align-items: center;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  max-width: 1500px;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .we-believe-that-tax {
+  align-self: stretch;
+  letter-spacing: -4.20px;
+  line-height: 63.0px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.desktop-all-breakpoints .large-button {
+  align-items: center;
+  background-color: var(--backgroundbackground-3);
+  border-radius: 88px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 24px 30px;
+  position: relative;
+  width: 233px;
+}
+
+.desktop-all-breakpoints .connect-with-our-experts-3 {
+  letter-spacing: -0.30px;
+  line-height: 15px;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.desktop-all-breakpoints .footer {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-3);
+  display: flex;
+  height: 346px;
+  justify-content: space-between;
+  padding: 32px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .left-column {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 236px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .logo-1 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .financial-clarity-yo {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .span {
+  letter-spacing: -0.06px;
+}
+
+.desktop-all-breakpoints .right-column {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 232px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .labels-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 35px;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .content-6 {
+  align-items: center;
+  flex: 1;
+  flex-grow: 1;
+  gap: 11px;
+}
+
+.desktop-all-breakpoints .button-white-1 {
+  align-items: center;
+  background-color: var(--b-fitjpwhite);
+  border-radius: 51.57px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+  padding: 12px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .learn-more-1 {
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-top: -0.39px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-all-breakpoints .copyright {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .button {
+  align-items: center;
+  border-radius: 51.57px;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+  padding: 12px;
+  position: relative;
+}
+
+.desktop-all-breakpoints .card-4 {
+  align-items: center;
+  border-radius: 20px;
+  display: flex;
+  position: relative;
+}
+
+.desktop-all-breakpoints .connect-with-our-experts-4 {
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.desktop-all-breakpoints .content-7 {
+  display: flex;
+  position: relative;
+}
+
+.desktop-all-breakpoints .labels-3 {
+  display: flex;
+  position: relative;
+}
+
+.desktop-all-breakpoints .section {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  max-width: 1500px;
+  position: relative;
+  width: 100%;
+}
+
+.desktop-all-breakpoints .text-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+/* screen - mobile */
+
+.mobile {
+  align-items: center;
+  background-color: var(--b-fitjpwhite);
+  display: flex;
+  flex-direction: column;
+  min-width: 375px;
+  position: relative;
+}
+
+.mobile .nav-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-1);
+  display: flex;
+  height: 69px;
+  justify-content: space-between;
+  padding: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .logo-2 {
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.mobile .nav-labels-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 16px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.mobile .services-2 {
+  cursor: pointer;
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.mobile .button-on-1 {
+  align-items: center;
+  background-color: var(--dividerdivider-1);
+  border-radius: 51.57px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+  padding: 12px;
+  position: relative;
+}
+
+.mobile .connect-with-our-experts-4 {
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-top: -0.39px;
+}
+
+.mobile .hero-section-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-1);
+  border-radius: 0px 0px 16px 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  overflow: hidden;
+  padding: 40px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .content-8 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  justify-content: center;
+  max-width: 1500px;
+  width: 100%;
+}
+
+.mobile .image-9 {
+  align-self: stretch;
+  background-image: url(../img/image@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 329px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .block-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .text-4 {
+  gap: 16px;
+}
+
+.mobile .title-1 {
+  align-self: stretch;
+  letter-spacing: -3.20px;
+  line-height: 40px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mobile .trusted-financial-gu-1 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.mobile .button-on-dark-1 {
+  align-items: center;
+  background-color: var(--dividerdivider-1);
+  border-radius: 51.57px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+  padding: 12px;
+  position: relative;
+  width: 162px;
+}
+
+.mobile .connect-with-our-experts-5 {
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-top: -0.39px;
+}
+
+.mobile .services-section-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-2);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .intro-section-1 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 106px;
+  max-width: 1500px;
+  padding: 120px 16px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .content-9 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 28.04px;
+  justify-content: center;
+  width: 100%;
+}
+
+.mobile .services-3 {
+  letter-spacing: -0.30px;
+  line-height: 15px;
+  margin-top: -1.10px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.mobile .let-us-handle-the-nu-1 {
+  align-self: stretch;
+  letter-spacing: -2.24px;
+  line-height: 33.6px;
+  position: relative;
+  text-align: center;
+}
+
+.mobile .serving-individuals-1 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+  text-align: center;
+}
+
+.mobile .connect-with-our-experts-6 {
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-top: -0.39px;
+}
+
+.mobile .section {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 192px;
+  justify-content: space-around;
+  max-width: 1500px;
+  padding: 0px 16px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .card-4 {
+  align-items: flex-start;
+  background-color: var(--accentaccent-1);
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 70px;
+  justify-content: center;
+  padding: 40px 16px;
+}
+
+.mobile .image-10 {
+  align-self: stretch;
+  background-image: url(../img/image-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 225.7px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .content-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 70px;
+  width: 100%;
+}
+
+.mobile .text-5 {
+  gap: 24px;
+}
+
+.mobile .tax-preparation-filing-1 {
+  align-self: stretch;
+  letter-spacing: -1.26px;
+  line-height: 29.4px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mobile .accurately-prepare-a-1 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.mobile .labels-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.mobile .labels-4 {
+  align-items: center;
+  background-color: var(--b-fitjpwhite);
+  border-radius: 8px;
+  flex: 1;
+  flex-grow: 1;
+  gap: 4px;
+  justify-content: center;
+  padding: 12px;
+}
+
+.mobile .card-5 {
+  align-items: center;
+  background-color: var(--accentaccent-1);
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 70px;
+  padding: 40px 16px;
+}
+
+.mobile .image-11 {
+  align-self: stretch;
+  background-image: url(../img/image-9@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 246.86px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .text-6 {
+  gap: 24px;
+}
+
+.mobile .irs-audit-assistance-1 {
+  align-self: stretch;
+  letter-spacing: -1.26px;
+  line-height: 29.4px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mobile .offer-expert-guidanc-1 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.mobile .image-12 {
+  align-self: stretch;
+  background-image: url(../img/image-3@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 260.94px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .text-7 {
+  gap: 24px;
+}
+
+.mobile .bookkeeping-accounting-1 {
+  align-self: stretch;
+  letter-spacing: -1.26px;
+  line-height: 29.4px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mobile .maintain-organized-f-1 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.mobile .testimonial-section-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-2);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 36px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .carousel-mobile {
+  align-items: center;
+  background-color: var(--b-fitjpwhite);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  max-width: 1200px;
+  padding: 24px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .hear-from-our-happy-clients-1 {
+  align-self: stretch;
+  letter-spacing: -2.24px;
+  line-height: 33.6px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.mobile .components {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .component-1-1 {
+  align-items: flex-start;
+  background-color: var(--b-fitjpwhite);
+  border-radius: 8px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  padding: 16px 12px;
+  position: relative;
+}
+
+.mobile .text-3 {
+  border-color: var(--texton-accent-3);
+  border-top-style: solid;
+  border-top-width: 1px;
+  gap: 8px;
+  padding: 8px 0px 0px;
+}
+
+.mobile .graphic-designer-1 {
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.mobile .commercial-photographer-1 {
+  align-self: stretch;
+  color: var(--backgroundbackground-3);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mobile .component-3 {
+  background-color: var(--backgroundbackground-3);
+}
+
+.mobile .stylist-1 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mobile .austin-texas {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  position: relative;
+}
+
+.mobile .quotes-3 {
+  gap: 50px;
+  padding: 40px 0px 0px;
+}
+
+.mobile .i-used-to-worry-abo {
+  align-self: stretch;
+  color: var(--dividerdivider-1);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: -0.81px;
+  line-height: 19.8px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mobile .byline-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 28px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .image-13 {
+  height: 48.04px;
+  object-fit: cover;
+  position: relative;
+  width: 46.05px;
+}
+
+.mobile .name-2 {
+  flex: 1;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.mobile .image-break-section-1 {
+  align-self: stretch;
+  background-image: url(../img/image-break-section.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 250px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .benefits-section-1 {
+  align-items: flex-start;
+  background-color: var(--b-fitjpwhite);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 1600px;
+  padding: 80px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .content-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  width: 100%;
+}
+
+.mobile .header-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .smart-finance-for-everyone-1 {
+  align-self: stretch;
+  letter-spacing: -2.24px;
+  line-height: 33.6px;
+  margin-top: -1.10px;
+  position: relative;
+}
+
+.mobile .at-noble-finance-we-1 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.mobile .x3-column-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .call-out-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-color: var(--dividerdivider-1);
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  padding: 20px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .image-14 {
+  background-image: url(../img/image-5@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.mobile .for-1 {
+  align-self: stretch;
+  letter-spacing: -0.99px;
+  line-height: 23.1px;
+  position: relative;
+}
+
+.mobile .simplicity-control-1 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.mobile .stay-in-charge-of-yo-1 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.mobile .image-15 {
+  background-image: url(../img/image-6@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.mobile .stability-security-1 {
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+  width: 144.6px;
+}
+
+.mobile .from-budgeting-tools-1 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.mobile .image-16 {
+  background-image: url(../img/image-7@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.mobile .effortless-bookkeepi-1 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.mobile .cta-section-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--b-fitjpwhite);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  padding: 50px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .image-17 {
+  align-self: stretch;
+  background-image: url(../img/image-11@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 20px;
+  height: 232px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .card-6 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-3);
+  flex: 0 0 auto;
+  gap: 28.04px;
+  justify-content: center;
+  padding: 60px;
+  width: 100%;
+}
+
+.mobile .content-11 {
+  align-items: flex-start;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 40px;
+  justify-content: center;
+}
+
+.mobile .a-custom-built-plan-for-you-1 {
+  align-self: stretch;
+  color: var(--b-fitjpwhite);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-28px);
+  font-weight: 400;
+  letter-spacing: -1.26px;
+  line-height: 29.4px;
+  margin-top: -6.00px;
+  position: relative;
+}
+
+.mobile .at-noble-finances-w-1 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.mobile .button-white-2 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}
+
+.mobile .experts-section-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-2);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  padding: 160px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .content-12 {
+  align-items: center;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  max-width: 1500px;
+  width: 100%;
+}
+
+.mobile .we-believe-that-tax-1 {
+  align-self: stretch;
+  letter-spacing: -2.24px;
+  line-height: 33.6px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.mobile .large-button-1 {
+  align-items: center;
+  background-color: var(--backgroundbackground-3);
+  border-radius: 88px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 24px 30px;
+  position: relative;
+  width: 233px;
+}
+
+.mobile .connect-with-our-experts-7 {
+  letter-spacing: -0.30px;
+  line-height: 15px;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.mobile .footer-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-3);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 80px;
+  padding: 32px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .left-column-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  height: 142px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .logo-3 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .labels-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 35px;
+  width: 100%;
+}
+
+.mobile .content-13 {
+  align-items: center;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+}
+
+.mobile .services-4 {
+  cursor: pointer;
+  flex: 1;
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  position: relative;
+}
+
+.mobile .button-white-3 {
+  flex: 1;
+  flex-grow: 1;
+}
+
+.mobile .right-column-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .financial-clarity-yo-1 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.mobile .span-1 {
+  letter-spacing: -0.06px;
+}
+
+.mobile .copyright-1 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  position: relative;
+}
+
+.mobile .button-white {
+  align-items: center;
+  background-color: var(--b-fitjpwhite);
+  border-radius: 51.57px;
+  display: flex;
+  gap: 4px;
+  justify-content: center;
+  padding: 12px;
+  position: relative;
+}
+
+.mobile .card {
+  border-radius: 20px;
+  display: flex;
+  position: relative;
+}
+
+.mobile .component {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 8px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 30px;
+  padding: 16px 12px;
+  position: relative;
+}
+
+.mobile .connect-with-our-experts {
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.mobile .content {
+  display: flex;
+  position: relative;
+}
+
+.mobile .labels {
+  display: flex;
+  position: relative;
+}
+
+.mobile .quotes {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .text {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .x1099-taxes {
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+/* screen - tablet */
+
+.tablet {
+  align-items: center;
+  background-color: var(--b-fitjpwhite);
+  display: flex;
+  flex-direction: column;
+  min-width: 800px;
+  overflow: hidden;
+  position: relative;
+}
+
+.tablet .nav-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-1);
+  display: flex;
+  height: 85px;
+  justify-content: space-between;
+  padding: 24px;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .logo-4 {
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.tablet .nav-labels-2 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 20px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.tablet .services-5 {
+  cursor: pointer;
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+}
+
+.tablet .button-on-2 {
+  align-items: center;
+  background-color: var(--dividerdivider-1);
+  border-radius: 51.57px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+  padding: 12px;
+  position: relative;
+}
+
+.tablet .connect-with-our-experts-8 {
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-top: -0.39px;
+}
+
+.tablet .hero-section-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-1);
+  border-radius: 0px 0px 16px 16px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  overflow: hidden;
+  padding: 100px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .content-15 {
+  align-items: center;
+  flex: 0 0 auto;
+  gap: 32px;
+  max-width: 1500px;
+  width: 100%;
+}
+
+.tablet .block-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 50px;
+  position: relative;
+}
+
+.tablet .text-8 {
+  gap: 24px;
+}
+
+.tablet .title-2 {
+  align-self: stretch;
+  color: var(--dividerdivider-1);
+  font-family: var(--font-family-work_sans);
+  font-size: 58px;
+  font-weight: 400;
+  letter-spacing: -4.64px;
+  line-height: 58px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tablet .trusted-financial-gu-2 {
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+  width: 370.44px;
+}
+
+.tablet .button-on-dark-2 {
+  align-items: center;
+  background-color: var(--dividerdivider-1);
+  border-radius: 51.57px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+  padding: 12px;
+  position: relative;
+  width: 162px;
+}
+
+.tablet .connect-with-our-experts-9 {
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-top: -0.39px;
+}
+
+.tablet .image-18 {
+  background-image: url(../img/image@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 262px;
+  position: relative;
+  width: 273px;
+}
+
+.tablet .services-section-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-2);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .intro-section-2 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 106px;
+  max-width: 1500px;
+  padding: 120px 24px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .content-16 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 28.04px;
+  justify-content: center;
+  width: 100%;
+}
+
+.tablet .services-6 {
+  letter-spacing: -0.30px;
+  line-height: 15px;
+  margin-top: -1.10px;
+}
+
+.tablet .let-us-handle-the-nu-2 {
+  align-self: stretch;
+  letter-spacing: -3.36px;
+  line-height: 50.4px;
+  position: relative;
+  text-align: center;
+}
+
+.tablet .serving-individuals-2 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+  text-align: center;
+}
+
+.tablet .connect-with-our-experts-10 {
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-top: -0.39px;
+}
+
+.tablet .section-4 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 192px;
+  justify-content: space-around;
+  max-width: 1500px;
+  padding: 20px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .card-7 {
+  background-color: var(--accentaccent-1);
+  gap: 60px;
+  padding: 64px 50px;
+}
+
+.tablet .image-19 {
+  background-image: url(../img/image-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  height: 214.82px;
+  position: relative;
+}
+
+.tablet .content-14 {
+  align-items: flex-start;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 54px;
+}
+
+.tablet .tax-preparation-filing-2 {
+  align-self: stretch;
+  letter-spacing: -1.53px;
+  line-height: 35.7px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tablet .accurately-prepare-a-2 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.tablet .labels-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 10px;
+  width: 100%;
+}
+
+.tablet .labels-7 {
+  align-items: center;
+  background-color: var(--b-fitjpwhite);
+  border-radius: 8px;
+  gap: 4px;
+  justify-content: center;
+  padding: 12px;
+  width: 82px;
+}
+
+.tablet .address-4 {
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tablet .x1099-taxes-8 {
+  margin-left: -4.00px;
+  margin-right: -4.00px;
+}
+
+.tablet .x1099-taxes-9 {
+  margin-left: -2.00px;
+  margin-right: -2.00px;
+}
+
+.tablet .irs-audit-assistance-2 {
+  align-self: stretch;
+  letter-spacing: -1.53px;
+  line-height: 35.7px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tablet .offer-expert-guidanc-2 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.tablet .image-20 {
+  background-image: url(../img/image-12@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 179px;
+  position: relative;
+  width: 313px;
+}
+
+.tablet .image-21 {
+  background-image: url(../img/image-3@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  height: 248.35px;
+  position: relative;
+}
+
+.tablet .bookkeeping-accounting-2 {
+  align-self: stretch;
+  letter-spacing: -1.53px;
+  line-height: 35.7px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tablet .maintain-organized-f-2 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.tablet .testimonial-section-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-2);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 100px;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .carousel-desktop-tablet-1 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 120px;
+  max-width: 1200px;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .hear-from-our-happy-clients-2 {
+  align-self: stretch;
+  letter-spacing: -3.36px;
+  line-height: 50.4px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.tablet .quotes-4 {
+  flex: 0 0 auto;
+  gap: 28px;
+  width: 100%;
+}
+
+.tablet .titles-1 {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 310px;
+}
+
+.tablet .component-1-2 {
+  align-items: flex-start;
+  background-color: var(--backgroundbackground-3);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: 128px;
+  padding: 20px 30px;
+  position: relative;
+  width: 310px;
+}
+
+.tablet .text-9 {
+  border-color: var(--texton-accent-3);
+  border-top-style: solid;
+  border-top-width: 1px;
+  gap: 16px;
+  padding: 20px 0px;
+}
+
+.tablet .graphic-designer-2 {
+  align-self: stretch;
+  color: var(--b-fitjpwhite);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: -0.81px;
+  line-height: 18.9px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tablet .component-4 {
+  align-items: flex-start;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: 128px;
+  padding: 20px 30px;
+  position: relative;
+  width: 310px;
+}
+
+.tablet .commercial-photographer-2 {
+  align-self: stretch;
+  letter-spacing: -0.81px;
+  line-height: 18.9px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tablet .stylist-2 {
+  align-self: stretch;
+  letter-spacing: -0.81px;
+  line-height: 18.9px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tablet .name-3 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  position: relative;
+}
+
+.tablet .quotes-5 {
+  border-color: var(--dividerdivider-1);
+  border-left-style: solid;
+  border-left-width: 1px;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 50px;
+  padding: 0px 30px 0px 40px;
+}
+
+.tablet .managing-my-taxes-a-1 {
+  align-self: stretch;
+  color: var(--dividerdivider-1);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: -1.08px;
+  line-height: 26.4px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.tablet .byline-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 28px;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .image-22 {
+  height: 48.04px;
+  object-fit: cover;
+  position: relative;
+  width: 46.05px;
+}
+
+.tablet .name-4 {
+  flex: 1;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.tablet .image-break-section-2 {
+  align-self: stretch;
+  background-image: url(../img/image-break-section.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 533px;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .benefits-section-2 {
+  align-items: flex-start;
+  background-color: var(--b-fitjpwhite);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 1600px;
+  padding: 80px 40px 120px;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .content-17 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 100px;
+  width: 100%;
+}
+
+.tablet .header-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 50px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .smart-finance-for-everyone-2 {
+  flex: 1;
+  letter-spacing: -3.36px;
+  line-height: 50.4px;
+  margin-top: -1.10px;
+  position: relative;
+}
+
+.tablet .at-noble-finance-we-2 {
+  flex: 1;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  margin-top: -1.10px;
+  position: relative;
+}
+
+.tablet .x3-column-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .call-out-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-color: var(--dividerdivider-1);
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 30px;
+  padding: 20px 160px 20px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .image-23 {
+  background-image: url(../img/image-5@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.tablet .for-2 {
+  align-self: stretch;
+  letter-spacing: -1.17px;
+  line-height: 27.3px;
+  position: relative;
+}
+
+.tablet .simplicity-control-2 {
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+  width: 236.25px;
+}
+
+.tablet .stay-in-charge-of-yo-2 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.tablet .image-24 {
+  background-image: url(../img/image-6@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.tablet .stability-security-2 {
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+  width: 144.6px;
+}
+
+.tablet .from-budgeting-tools-2 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.tablet .image-25 {
+  background-image: url(../img/image-7@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.tablet .effortless-bookkeepi-2 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.tablet .cta-section-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--b-fitjpwhite);
+  display: flex;
+  gap: 20px;
+  height: 517px;
+  padding: 50px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .card-8 {
+  align-self: stretch;
+  background-color: var(--backgroundbackground-3);
+  gap: 28.04px;
+  justify-content: center;
+  padding: 60px;
+}
+
+.tablet .content-18 {
+  align-items: flex-start;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 40px;
+  justify-content: center;
+}
+
+.tablet .a-custom-built-plan-for-you-2 {
+  align-self: stretch;
+  color: var(--b-fitjpwhite);
+  font-family: var(--font-family-work_sans);
+  font-size: 34px;
+  font-weight: 400;
+  letter-spacing: -1.53px;
+  line-height: 35.7px;
+  margin-top: -6.00px;
+  position: relative;
+}
+
+.tablet .at-noble-finances-w-2 {
+  align-self: stretch;
+  letter-spacing: -0.72px;
+  line-height: 17.6px;
+  position: relative;
+}
+
+.tablet .button-white-4 {
+  align-self: stretch;
+  display: flex;
+  width: 100%;
+}
+
+.tablet .image-26 {
+  align-self: stretch;
+  background-image: url(../img/image-13@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 20px;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.tablet .experts-section-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-2);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  padding: 160px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .content-19 {
+  align-items: center;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  max-width: 1500px;
+  width: 100%;
+}
+
+.tablet .we-believe-that-tax-2 {
+  align-self: stretch;
+  letter-spacing: -3.36px;
+  line-height: 50.4px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.tablet .large-button-2 {
+  align-items: center;
+  background-color: var(--backgroundbackground-3);
+  border-radius: 88px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 24px 30px;
+  position: relative;
+  width: 233px;
+}
+
+.tablet .connect-with-our-experts-11 {
+  letter-spacing: -0.30px;
+  line-height: 15px;
+  margin-top: -1.00px;
+  text-align: center;
+}
+
+.tablet .footer-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--backgroundbackground-3);
+  display: flex;
+  gap: 80px;
+  height: 354.97px;
+  padding: 32px;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .t-column {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 232px;
+  position: relative;
+}
+
+.tablet .logo-5 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .financial-clarity-yo-2 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  position: relative;
+}
+
+.tablet .span-2 {
+  letter-spacing: -0.06px;
+}
+
+.tablet .labels-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  gap: 35px;
+  width: 100%;
+}
+
+.tablet .content-20 {
+  align-items: center;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+}
+
+.tablet .button-white-5 {
+  display: inline-flex;
+}
+
+.tablet .copyright-2 {
+  align-self: stretch;
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  position: relative;
+}
+
+.tablet .button-white {
+  align-items: center;
+  background-color: var(--b-fitjpwhite);
+  border-radius: 51.57px;
+  flex: 0 0 auto;
+  gap: 4px;
+  justify-content: center;
+  padding: 12px;
+  position: relative;
+}
+
+.tablet .card {
+  align-items: center;
+  border-radius: 20px;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.tablet .connect-with-our-experts {
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tablet .content {
+  display: flex;
+  position: relative;
+}
+
+.tablet .labels {
+  display: flex;
+  position: relative;
+}
+
+.tablet .quotes {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  position: relative;
+}
+
+.tablet .services {
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.tablet .text {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.tablet .x1099-taxes {
+  letter-spacing: -0.54px;
+  line-height: 13.2px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+@media screen and (max-width: 799px) {
+  .screen.desktop-all-breakpoints { 
+    display: none;
+   }
+  .screen.tablet { 
+    display: none;
+   }
+}
+@media screen and (min-width: 800px) and (max-width: 1279px) {
+  .screen.desktop-all-breakpoints { 
+    display: none;
+   }
+  .screen.mobile { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) {
+  .screen.mobile { 
+    display: none;
+   }
+  .screen.tablet { 
+    display: none;
+   }
+}
