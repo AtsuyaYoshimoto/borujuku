@@ -2854,6 +2854,48 @@
   white-space: nowrap;
   width: fit-content;
 }
+
+.button-on-dark:hover {
+  background-color: #FFFFFF !important;
+  transition: all 300ms ease-in;
+}
+
+.button-on-dark:hover .connect-with-our-experts-1,
+.button-on-dark:hover .connect-with-our-experts-3,
+.button-on-dark:hover .connect-with-our-experts-4,
+.button-on-dark:hover .connect-with-our-experts-5,
+.button-on-dark:hover .connect-with-our-experts-7,
+.button-on-dark:hover .connect-with-our-experts-9 {
+  color: #2E4F21 !important;
+  transition: all 300ms ease-in;
+}
+
+.large-button:hover {
+  background-color: #FFFFFF !important;
+  transition: all 300ms ease-in;
+}
+
+.large-button:hover .connect-with-our-experts-3,
+.large-button:hover .connect-with-our-experts-7,
+.large-button:hover .connect-with-our-experts-11 {
+  color: #2E4F21 !important;
+  transition: all 300ms ease-in;
+}
+
+.button-on-dark,
+.large-button {
+  transition: all 300ms ease-in;
+}
+
+.connect-with-our-experts-1,
+.connect-with-our-experts-3,
+.connect-with-our-experts-4,
+.connect-with-our-experts-5,
+.connect-with-our-experts-7,
+.connect-with-our-experts-9,
+.connect-with-our-experts-11 {
+  transition: all 300ms ease-in;
+}
 @media screen and (max-width: 799px) {
   .screen.desktop-all-breakpoints { 
     display: none;
